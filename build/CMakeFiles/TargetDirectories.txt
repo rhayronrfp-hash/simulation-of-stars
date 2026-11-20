@@ -1,0 +1,3 @@
+C:/Users/ferna/Downloads/BlackHole/build/CMakeFiles/BlackHole.dir
+C:/Users/ferna/Downloads/BlackHole/build/CMakeFiles/edit_cache.dir
+C:/Users/ferna/Downloads/BlackHole/build/CMakeFiles/rebuild_cache.dir

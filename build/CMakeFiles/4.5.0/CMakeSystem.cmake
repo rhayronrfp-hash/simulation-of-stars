@@ -3,7 +3,7 @@ set(CMAKE_HOST_SYSTEM_NAME "Windows")
 set(CMAKE_HOST_SYSTEM_VERSION "10.0.26200")
 set(CMAKE_HOST_SYSTEM_PROCESSOR "AMD64")
 
-set(_CMAKE_INPUT_TOOLCHAIN_FILE [==[C:/Users/ferna/OneDrive/Desktop/vcpkg/scripts/buildsystems/vcpkg.cmake]==])
+set(_CMAKE_INPUT_TOOLCHAIN_FILE [==[C:\Users\ferna\OneDrive\Desktop\vcpkg\scripts\buildsystems\vcpkg.cmake]==])
 set(_CMAKE_SYSTEM_TOOLCHAIN_FILE "C:/Users/ferna/OneDrive/Desktop/vcpkg/scripts/buildsystems/vcpkg.cmake")
 include("${_CMAKE_SYSTEM_TOOLCHAIN_FILE}")
 
